@@ -4,7 +4,10 @@ It will help to evaluate the different machine learning algorithms and technique
 
 
 Final Result and Algorithms -
-KNN = 70%
-SVM = 77%
-MLP = 74%
-RF  = 77%
+KNN = 77%
+SVM = 79%
+MLP = 75%
+RF  = 78%
+NB  = 76%
+
+Future Work : Try for Stacking Classifier Algorithms. ( Combining two or more algorithms to increase the efficiency of result )
