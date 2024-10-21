@@ -10,4 +10,7 @@ MLP = 75%
 RF  = 78%
 NB  = 76%
 
+![image](https://github.com/user-attachments/assets/6e23af07-46c1-4b0f-a855-40fb61311f9d)
+
+
 Future Work : Try for Stacking Classifier Algorithms. ( Combining two or more algorithms to increase the efficiency of result )
